@@ -1,0 +1,144 @@
+FINAL TO DO :
+- add users wh list done
+- add wh reset history done
+- automatique reset history api
+- automatique wh at shifts end api
+- drivers rotation for rtg
+
+-STS ALGO
+
+USERS :
+- do edit,delete,reset actions done
+- add masse performance done
+- table functionning right and fast done
+- check desaibled status is active  done
+- the abality to add users pic done
+- edit wh global done
+- design done
+
+
+
+EQUIPMENT :
+- design
+- add masse performance
+- filter maybe
+
+
+
+PLANNING :
+- separe between open edit drivers/equipment done
+- seperate mat and fullname and wh done
+- see what about 1wh 
+- shift name desapearing
+- login calendar data not found before refreshing done
+- fullname and wh min width fulname min-width: 219px; and wh min-width: 65px; done
+- undo & redo logos
+- margin bottom of the table after create/edit done
+- loging design in the frontend done
+- actions done
+
+
+SCRIPT :
+- wh hours monthly script
+- wh end of shift script
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- create planning complishing ! done
+- Navigation done
+- edit
+    -drivers add done
+    -drivers switch done
+    -drivers hold done
+    -drivers delete done
+
+    -equiment add done
+    -equiment switch done
+    -equiment hold done
+    -equiment delete done
+
+- count wh done
+    -add 1 done
+    -mince 1 done
+- print pdf 2 done
+- print excel 2 done
+- filter  3
+- box driver setting  4 done
+- box equipment setting  3 done
+- box left setting  2 done
+-
+
+STS--------
+- setPlanning generation - done
+- add working hours interface done
+
+APP__ISSUES__TO_FIX :
+
+- WORKING HOURS SET - 7 - done
+- STS 13 : 7 FULL CRANES - 5 done
+- RTG NOT RELOAD MISSING OUT - 7 done
+- OUT IN SWITCH EQP - 4 done
+- reload choice show in mini edits - 3 done
+- EQP PLANNIG CALENDAR - 6 done
+- DOWLOAD HEADERS - 3 done
+- pdf portrait paysage & FINALIZING IT - 8 done
+- undo redo disable - 7 done
+- STS & RTG reload delete equip done
+
+
+- NUMBERS CHF IN THE HEADERS - 4
+- ICONS - 4
+- user and eqp checking - ?
+
+- roules def - 6
+- loging design -  ???
+- APP LAYOUT TOP BAR AND SIDEBAR - 8
+- routate the evening icon - 3
+- loading in qst ? - ?
+
+- STS ALGO ADD LAYER
+
+AM--------
+- setPlanning generation
+- add Assistant,Dechman,Checker hours interface
+
+RS--------
+- setPlanning generation
